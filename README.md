@@ -4,7 +4,7 @@ ABC Exp Toolkit is a Python library for building event funnels, calculating conv
 
 ## Installation
 
-pip install abc-test-toolkit
+pip install abc-exp-toolkit
 
 ## Features
 
