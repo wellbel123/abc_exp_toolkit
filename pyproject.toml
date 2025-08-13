@@ -1,0 +1,26 @@
+[build-system]
+requires = ["hatchling>=1.18"]
+build-backend = "hatchling.build"
+
+[project]
+name = "abc-exp-toolkit"
+version = "0.0.1"
+authors = [
+ { name="Nadia Beliaikina", email="belyaikinan@gmail.com" },
+]
+description = "This is a library for summarizing the results of ab tests"
+readme = "README.md"
+requires-python = ">=3.09.0"
+classifiers = [
+   "Programming Language :: Python :: 3",
+   "License :: OSI Approved :: MIT License",
+   "Operating System :: OS Independent",
+]
+
+
+
+[project.urls]
+Homepage = "https://github.com/wellbel123/abc_exp_toolkit"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/abc_exp_toolkit"]
