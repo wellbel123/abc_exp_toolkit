@@ -14,9 +14,6 @@ Statistics:
 
 - **compute_step_stats** - z-test (two-sided and one-sided hypotheses) and p-value with Bonferroni correction  
 
-Visualization:
-
-— distributions and confidence intervals for groups and their differences.
 
 Synthetic Data:
 
