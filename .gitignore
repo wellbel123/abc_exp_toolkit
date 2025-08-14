@@ -1,6 +1,29 @@
-*.pyc
+# Python
+__pycache__/
+*.py[cod]
 *.pyo
-*.pyd
-*.egg-info/
+
+# Build artifacts
 build/
 dist/
+*.egg-info/
+.eggs/
+
+# Virtual envs
+.venv/
+venv/
+
+# Tests/coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
