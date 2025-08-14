@@ -24,4 +24,4 @@ Synthetic Data:
 
 ## Quick Start 
 
-You can find examples [here](https://github.com/wellbel123/abc-exp-toolkit/examples.ipynb)
+You can find examples [here](https://github.com/wellbel123/abc_exp_toolkit/blob/main/examples.ipynb)
